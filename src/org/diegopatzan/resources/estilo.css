@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21/04/2021, 10:45:11
+    Author     : Diego Fernando Patzán Marroquín
+*/
+#ventanaPrincipal{
+    -fx-background-color: #83C129;
+    
+}
+
+.operadores{
+    -fx-font-size: 10px;
+}
+.operadores:hover{
+    -fx-font-size: 20px;
+    -fx-background-color: #AFAFAF;
+}
+
+.botones19{
+    -fx-font-size: 10px;
+    
+}
+.botones19:hover{
+    -fx-font-size: 20px;
+    -fx-background-color: #AFAFAF;
+}
+#ac:hover{
+    -fx-text-fill: #FF0000;
+}
